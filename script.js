@@ -1,0 +1,5 @@
+console.log("La influecia del manga en mi vida");
+let p1 ="Gran parte de mi vida, el manga ha sido una fuente constante de inspiración y asombro para mí. Cada página, cada dibujo, transmite emociones profundas y mundos llenos de imaginación. La diversidad de géneros y estilos permite que cualquier lector encuentre algo que resuene en su interior, desde historias épicas de acción hasta relatos más íntimos y conmovedores. Admiro el arte detallado, la expresividad de los personajes y la manera en que los autores logran construir universos tan ricos y bastos. Leer manga no es solo un pasatiempo, es sumergirse en una cultura diferente en valores y perspectivas distintas. A través del manga he aprendido sobre esfuerzo, amistad, sacrificio y esperanza. Más allá del entretenimiento, representa un arte que conecta personas de todo el mundo, derribando la barrera del idioma y distancia. Mi aprecio por el manga no deja de crecer, y sé que me seguirá acompañando toda la vida.";
+
+
+document.getElementById('parr1').innerHTML="parrafo 1".innerHTML=p1;

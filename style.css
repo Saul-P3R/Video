@@ -1,0 +1,14 @@
+body {
+    background-color: #85da1e; 
+    color: #000000; 
+    
+}
+
+p {
+    margin: 10px;color: #33ff00; 
+}
+div {
+    background-color: rgb(164, 164, 164);
+    font-size: 40px;
+    text-align: center;
+}
